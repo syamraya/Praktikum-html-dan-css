@@ -1,0 +1,34 @@
+h2{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    width: 93.39%;
+    padding: 50px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    border-radius: 0px;
+    
+}
+table {
+    color: black;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    font-family: Arial, sans-serif;
+    padding-top: 10px;   
+}
+td {
+    text-align: center;
+    padding: 25px;
+    border-collapse: collapse; 
+    border: 1px solid white;
+    text-size-adjust: 100%;
+}
+
+th {
+    text-align: center;
+    padding: 25px;
+    border-collapse: collapse; 
+    background-color: rgb(83, 192, 255);  
+}
